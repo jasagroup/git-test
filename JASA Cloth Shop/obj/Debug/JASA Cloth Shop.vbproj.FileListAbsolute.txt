@@ -1,0 +1,9 @@
+C:\Users\samawade\Desktop\group\JASA Cloth Shop\JASA Cloth Shop\obj\Debug\JASA_Cloth_Shop.Resources.resources
+C:\Users\samawade\Desktop\group\JASA Cloth Shop\JASA Cloth Shop\obj\Debug\JASA Cloth Shop.vbproj.GenerateResource.Cache
+C:\Users\samawade\Desktop\group\JASA Cloth Shop\JASA Cloth Shop\bin\JASA Cloth Shop.dll.config
+C:\Users\samawade\Desktop\group\JASA Cloth Shop\JASA Cloth Shop\bin\JASA Cloth Shop.dll
+C:\Users\samawade\Desktop\group\JASA Cloth Shop\JASA Cloth Shop\bin\JASA Cloth Shop.pdb
+C:\Users\samawade\Desktop\group\JASA Cloth Shop\JASA Cloth Shop\bin\JASA Cloth Shop.xml
+C:\Users\samawade\Desktop\group\JASA Cloth Shop\JASA Cloth Shop\obj\Debug\JASA Cloth Shop.dll
+C:\Users\samawade\Desktop\group\JASA Cloth Shop\JASA Cloth Shop\obj\Debug\JASA Cloth Shop.xml
+C:\Users\samawade\Desktop\group\JASA Cloth Shop\JASA Cloth Shop\obj\Debug\JASA Cloth Shop.pdb
