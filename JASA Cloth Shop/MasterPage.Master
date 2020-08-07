@@ -60,7 +60,7 @@
                 </li>
 
                 <li class="nav-item">
-                   <a href="bill.aspx"> <i class='fas fa-shopping-cart' style='font-size:48px;color:cornflowerblue'></i></a>
+                   <a href="billing.aspx"> <i class='fas fa-shopping-cart' style='font-size:48px;color:cornflowerblue'></i></a>
                 </li>
                 
                 <li class="nav-item">

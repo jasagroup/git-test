@@ -6,248 +6,7 @@ JASAClothShop
 </name>
 </assembly>
 <members>
-<member name="F:JASA_Cloth_Shop.billing.form1">
-	<summary>
-form1 control.
-</summary>
-	<remarks>
-Auto-generated field.
-To modify move field declaration from designer file to code-behind file.
-</remarks>
-</member><member name="F:JASA_Cloth_Shop.billing.GridView4">
-	<summary>
-GridView4 control.
-</summary>
-	<remarks>
-Auto-generated field.
-To modify move field declaration from designer file to code-behind file.
-</remarks>
-</member><member name="F:JASA_Cloth_Shop.billing.Panel1">
-	<summary>
-Panel1 control.
-</summary>
-	<remarks>
-Auto-generated field.
-To modify move field declaration from designer file to code-behind file.
-</remarks>
-</member><member name="F:JASA_Cloth_Shop.billing.Label14">
-	<summary>
-Label14 control.
-</summary>
-	<remarks>
-Auto-generated field.
-To modify move field declaration from designer file to code-behind file.
-</remarks>
-</member><member name="F:JASA_Cloth_Shop.billing.DropDownList1">
-	<summary>
-DropDownList1 control.
-</summary>
-	<remarks>
-Auto-generated field.
-To modify move field declaration from designer file to code-behind file.
-</remarks>
-</member><member name="F:JASA_Cloth_Shop.billing.Label3">
-	<summary>
-Label3 control.
-</summary>
-	<remarks>
-Auto-generated field.
-To modify move field declaration from designer file to code-behind file.
-</remarks>
-</member><member name="F:JASA_Cloth_Shop.billing.txtItem">
-	<summary>
-txtItem control.
-</summary>
-	<remarks>
-Auto-generated field.
-To modify move field declaration from designer file to code-behind file.
-</remarks>
-</member><member name="F:JASA_Cloth_Shop.billing.Label4">
-	<summary>
-Label4 control.
-</summary>
-	<remarks>
-Auto-generated field.
-To modify move field declaration from designer file to code-behind file.
-</remarks>
-</member><member name="F:JASA_Cloth_Shop.billing.txtPrice">
-	<summary>
-txtPrice control.
-</summary>
-	<remarks>
-Auto-generated field.
-To modify move field declaration from designer file to code-behind file.
-</remarks>
-</member><member name="F:JASA_Cloth_Shop.billing.Label5">
-	<summary>
-Label5 control.
-</summary>
-	<remarks>
-Auto-generated field.
-To modify move field declaration from designer file to code-behind file.
-</remarks>
-</member><member name="F:JASA_Cloth_Shop.billing.txtQuantity">
-	<summary>
-txtQuantity control.
-</summary>
-	<remarks>
-Auto-generated field.
-To modify move field declaration from designer file to code-behind file.
-</remarks>
-</member><member name="F:JASA_Cloth_Shop.billing.Label6">
-	<summary>
-Label6 control.
-</summary>
-	<remarks>
-Auto-generated field.
-To modify move field declaration from designer file to code-behind file.
-</remarks>
-</member><member name="F:JASA_Cloth_Shop.billing.txtTotal">
-	<summary>
-txtTotal control.
-</summary>
-	<remarks>
-Auto-generated field.
-To modify move field declaration from designer file to code-behind file.
-</remarks>
-</member><member name="F:JASA_Cloth_Shop.billing.addChart">
-	<summary>
-addChart control.
-</summary>
-	<remarks>
-Auto-generated field.
-To modify move field declaration from designer file to code-behind file.
-</remarks>
-</member><member name="F:JASA_Cloth_Shop.billing.GridView3">
-	<summary>
-GridView3 control.
-</summary>
-	<remarks>
-Auto-generated field.
-To modify move field declaration from designer file to code-behind file.
-</remarks>
-</member><member name="F:JASA_Cloth_Shop.billing.Panel2">
-	<summary>
-Panel2 control.
-</summary>
-	<remarks>
-Auto-generated field.
-To modify move field declaration from designer file to code-behind file.
-</remarks>
-</member><member name="F:JASA_Cloth_Shop.billing.Label9">
-	<summary>
-Label9 control.
-</summary>
-	<remarks>
-Auto-generated field.
-To modify move field declaration from designer file to code-behind file.
-</remarks>
-</member><member name="F:JASA_Cloth_Shop.billing.txtAllTotal">
-	<summary>
-txtAllTotal control.
-</summary>
-	<remarks>
-Auto-generated field.
-To modify move field declaration from designer file to code-behind file.
-</remarks>
-</member><member name="F:JASA_Cloth_Shop.billing.Reset">
-	<summary>
-Reset control.
-</summary>
-	<remarks>
-Auto-generated field.
-To modify move field declaration from designer file to code-behind file.
-</remarks>
-</member><member name="F:JASA_Cloth_Shop.billing.Label13">
-	<summary>
-Label13 control.
-</summary>
-	<remarks>
-Auto-generated field.
-To modify move field declaration from designer file to code-behind file.
-</remarks>
-</member><member name="F:JASA_Cloth_Shop.billing.txtPaid">
-	<summary>
-txtPaid control.
-</summary>
-	<remarks>
-Auto-generated field.
-To modify move field declaration from designer file to code-behind file.
-</remarks>
-</member><member name="F:JASA_Cloth_Shop.billing.Label11">
-	<summary>
-Label11 control.
-</summary>
-	<remarks>
-Auto-generated field.
-To modify move field declaration from designer file to code-behind file.
-</remarks>
-</member><member name="F:JASA_Cloth_Shop.billing.txtRemainderBalance">
-	<summary>
-txtRemainderBalance control.
-</summary>
-	<remarks>
-Auto-generated field.
-To modify move field declaration from designer file to code-behind file.
-</remarks>
-</member><member name="F:JASA_Cloth_Shop.billing.btnInvoice">
-	<summary>
-btnInvoice control.
-</summary>
-	<remarks>
-Auto-generated field.
-To modify move field declaration from designer file to code-behind file.
-</remarks>
-</member><member name="F:JASA_Cloth_Shop.billing.txtTotalQuantity">
-	<summary>
-txtTotalQuantity control.
-</summary>
-	<remarks>
-Auto-generated field.
-To modify move field declaration from designer file to code-behind file.
-</remarks>
-</member><member name="F:JASA_Cloth_Shop.billing.txtSelectedQuantity">
-	<summary>
-txtSelectedQuantity control.
-</summary>
-	<remarks>
-Auto-generated field.
-To modify move field declaration from designer file to code-behind file.
-</remarks>
-</member><member name="F:JASA_Cloth_Shop.billing.txtProductName">
-	<summary>
-txtProductName control.
-</summary>
-	<remarks>
-Auto-generated field.
-To modify move field declaration from designer file to code-behind file.
-</remarks>
-</member><member name="P:JASA_Cloth_Shop.My.MyWebExtension.Computer">
-	<summary>
- Returns information about the host computer.
- </summary>
-</member><member name="P:JASA_Cloth_Shop.My.MyWebExtension.User">
-	<summary>
- Returns information for the current Web user.
- </summary>
-</member><member name="P:JASA_Cloth_Shop.My.MyWebExtension.Request">
-	<summary>
- Returns Request object.
- </summary>
-</member><member name="P:JASA_Cloth_Shop.My.MyWebExtension.Response">
-	<summary>
- Returns Response object.
- </summary>
-</member><member name="P:JASA_Cloth_Shop.My.MyWebExtension.Log">
-	<summary>
- Returns the Asp log object.
- </summary>
-</member><member name="T:JASA_Cloth_Shop.My.MyWebExtension">
-	<summary>
- Module used to define the properties that are available in the My Namespace for Web projects.
- </summary>
-	<remarks></remarks>
-</member><member name="F:JASA_Cloth_Shop.invoice.form1">
+<member name="F:JASA_Cloth_Shop.invoice.form1">
 	<summary>
 form1 control.
 </summary>
@@ -266,14 +25,6 @@ To modify move field declaration from designer file to code-behind file.
 </member><member name="F:JASA_Cloth_Shop.invoice.txtInvoiceID">
 	<summary>
 txtInvoiceID control.
-</summary>
-	<remarks>
-Auto-generated field.
-To modify move field declaration from designer file to code-behind file.
-</remarks>
-</member><member name="F:JASA_Cloth_Shop.invoice.RequiredFieldValidator5">
-	<summary>
-RequiredFieldValidator5 control.
 </summary>
 	<remarks>
 Auto-generated field.
@@ -423,7 +174,7 @@ txtOldAmount control.
 Auto-generated field.
 To modify move field declaration from designer file to code-behind file.
 </remarks>
-</member><member name="F:JASA_Cloth_Shop.bill.form1">
+</member><member name="F:JASA_Cloth_Shop.sales.form1">
 	<summary>
 form1 control.
 </summary>
@@ -431,127 +182,47 @@ form1 control.
 Auto-generated field.
 To modify move field declaration from designer file to code-behind file.
 </remarks>
-</member><member name="F:JASA_Cloth_Shop.bill.Label14">
+</member><member name="F:JASA_Cloth_Shop.sales.Label1">
 	<summary>
-Label14 control.
+Label1 control.
 </summary>
 	<remarks>
 Auto-generated field.
 To modify move field declaration from designer file to code-behind file.
 </remarks>
-</member><member name="F:JASA_Cloth_Shop.bill.DropDownList1">
+</member><member name="F:JASA_Cloth_Shop.sales.TextBox1">
 	<summary>
-DropDownList1 control.
+TextBox1 control.
 </summary>
 	<remarks>
 Auto-generated field.
 To modify move field declaration from designer file to code-behind file.
 </remarks>
-</member><member name="F:JASA_Cloth_Shop.bill.GridView4">
+</member><member name="F:JASA_Cloth_Shop.sales.Label2">
 	<summary>
-GridView4 control.
+Label2 control.
 </summary>
 	<remarks>
 Auto-generated field.
 To modify move field declaration from designer file to code-behind file.
 </remarks>
-</member><member name="F:JASA_Cloth_Shop.bill.Label3">
+</member><member name="F:JASA_Cloth_Shop.sales.TextBox2">
 	<summary>
-Label3 control.
+TextBox2 control.
 </summary>
 	<remarks>
 Auto-generated field.
 To modify move field declaration from designer file to code-behind file.
 </remarks>
-</member><member name="F:JASA_Cloth_Shop.bill.txtItem">
+</member><member name="F:JASA_Cloth_Shop.sales.Button1">
 	<summary>
-txtItem control.
+Button1 control.
 </summary>
 	<remarks>
 Auto-generated field.
 To modify move field declaration from designer file to code-behind file.
 </remarks>
-</member><member name="F:JASA_Cloth_Shop.bill.Label4">
-	<summary>
-Label4 control.
-</summary>
-	<remarks>
-Auto-generated field.
-To modify move field declaration from designer file to code-behind file.
-</remarks>
-</member><member name="F:JASA_Cloth_Shop.bill.txtPrice">
-	<summary>
-txtPrice control.
-</summary>
-	<remarks>
-Auto-generated field.
-To modify move field declaration from designer file to code-behind file.
-</remarks>
-</member><member name="F:JASA_Cloth_Shop.bill.Label5">
-	<summary>
-Label5 control.
-</summary>
-	<remarks>
-Auto-generated field.
-To modify move field declaration from designer file to code-behind file.
-</remarks>
-</member><member name="F:JASA_Cloth_Shop.bill.txtQuantity">
-	<summary>
-txtQuantity control.
-</summary>
-	<remarks>
-Auto-generated field.
-To modify move field declaration from designer file to code-behind file.
-</remarks>
-</member><member name="F:JASA_Cloth_Shop.bill.Label6">
-	<summary>
-Label6 control.
-</summary>
-	<remarks>
-Auto-generated field.
-To modify move field declaration from designer file to code-behind file.
-</remarks>
-</member><member name="F:JASA_Cloth_Shop.bill.txtTotal">
-	<summary>
-txtTotal control.
-</summary>
-	<remarks>
-Auto-generated field.
-To modify move field declaration from designer file to code-behind file.
-</remarks>
-</member><member name="F:JASA_Cloth_Shop.bill.addChart">
-	<summary>
-addChart control.
-</summary>
-	<remarks>
-Auto-generated field.
-To modify move field declaration from designer file to code-behind file.
-</remarks>
-</member><member name="F:JASA_Cloth_Shop.bill.Label9">
-	<summary>
-Label9 control.
-</summary>
-	<remarks>
-Auto-generated field.
-To modify move field declaration from designer file to code-behind file.
-</remarks>
-</member><member name="F:JASA_Cloth_Shop.bill.txtAllTotal">
-	<summary>
-txtAllTotal control.
-</summary>
-	<remarks>
-Auto-generated field.
-To modify move field declaration from designer file to code-behind file.
-</remarks>
-</member><member name="F:JASA_Cloth_Shop.bill.Reset">
-	<summary>
-Reset control.
-</summary>
-	<remarks>
-Auto-generated field.
-To modify move field declaration from designer file to code-behind file.
-</remarks>
-</member><member name="F:JASA_Cloth_Shop.bill.GridView3">
+</member><member name="F:JASA_Cloth_Shop.sales.GridView3">
 	<summary>
 GridView3 control.
 </summary>
@@ -559,65 +230,402 @@ GridView3 control.
 Auto-generated field.
 To modify move field declaration from designer file to code-behind file.
 </remarks>
-</member><member name="F:JASA_Cloth_Shop.bill.Label13">
+</member><member name="P:JASA_Cloth_Shop.My.MyWebExtension.Computer">
 	<summary>
-Label13 control.
+ Returns information about the host computer.
+ </summary>
+</member><member name="P:JASA_Cloth_Shop.My.MyWebExtension.User">
+	<summary>
+ Returns information for the current Web user.
+ </summary>
+</member><member name="P:JASA_Cloth_Shop.My.MyWebExtension.Request">
+	<summary>
+ Returns Request object.
+ </summary>
+</member><member name="P:JASA_Cloth_Shop.My.MyWebExtension.Response">
+	<summary>
+ Returns Response object.
+ </summary>
+</member><member name="P:JASA_Cloth_Shop.My.MyWebExtension.Log">
+	<summary>
+ Returns the Asp log object.
+ </summary>
+</member><member name="T:JASA_Cloth_Shop.My.MyWebExtension">
+	<summary>
+ Module used to define the properties that are available in the My Namespace for Web projects.
+ </summary>
+	<remarks></remarks>
+</member><member name="F:JASA_Cloth_Shop.customers.form1">
+	<summary>
+form1 control.
 </summary>
 	<remarks>
 Auto-generated field.
 To modify move field declaration from designer file to code-behind file.
 </remarks>
-</member><member name="F:JASA_Cloth_Shop.bill.txtPaid">
+</member><member name="F:JASA_Cloth_Shop.customers.Label1">
 	<summary>
-txtPaid control.
+Label1 control.
 </summary>
 	<remarks>
 Auto-generated field.
 To modify move field declaration from designer file to code-behind file.
 </remarks>
-</member><member name="F:JASA_Cloth_Shop.bill.Label11">
+</member><member name="F:JASA_Cloth_Shop.customers.txtCustId">
 	<summary>
-Label11 control.
+txtCustId control.
 </summary>
 	<remarks>
 Auto-generated field.
 To modify move field declaration from designer file to code-behind file.
 </remarks>
-</member><member name="F:JASA_Cloth_Shop.bill.txtRemainderBalance">
+</member><member name="F:JASA_Cloth_Shop.customers.Label2">
 	<summary>
-txtRemainderBalance control.
+Label2 control.
 </summary>
 	<remarks>
 Auto-generated field.
 To modify move field declaration from designer file to code-behind file.
 </remarks>
-</member><member name="F:JASA_Cloth_Shop.bill.btnInvoice">
+</member><member name="F:JASA_Cloth_Shop.customers.txtCustFullName">
 	<summary>
-btnInvoice control.
+txtCustFullName control.
 </summary>
 	<remarks>
 Auto-generated field.
 To modify move field declaration from designer file to code-behind file.
 </remarks>
-</member><member name="F:JASA_Cloth_Shop.bill.txtTotalQuantity">
+</member><member name="F:JASA_Cloth_Shop.customers.RequiredFieldValidator2">
 	<summary>
-txtTotalQuantity control.
+RequiredFieldValidator2 control.
 </summary>
 	<remarks>
 Auto-generated field.
 To modify move field declaration from designer file to code-behind file.
 </remarks>
-</member><member name="F:JASA_Cloth_Shop.bill.txtSelectedQuantity">
+</member><member name="F:JASA_Cloth_Shop.customers.Label3">
 	<summary>
-txtSelectedQuantity control.
+Label3 control.
 </summary>
 	<remarks>
 Auto-generated field.
 To modify move field declaration from designer file to code-behind file.
 </remarks>
-</member><member name="F:JASA_Cloth_Shop.bill.txtProductName">
+</member><member name="F:JASA_Cloth_Shop.customers.DropDownList1">
 	<summary>
-txtProductName control.
+DropDownList1 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:JASA_Cloth_Shop.customers.RequiredFieldValidator3">
+	<summary>
+RequiredFieldValidator3 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:JASA_Cloth_Shop.customers.Label4">
+	<summary>
+Label4 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:JASA_Cloth_Shop.customers.txtCustAddress">
+	<summary>
+txtCustAddress control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:JASA_Cloth_Shop.customers.RequiredFieldValidator4">
+	<summary>
+RequiredFieldValidator4 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:JASA_Cloth_Shop.customers.Label5">
+	<summary>
+Label5 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:JASA_Cloth_Shop.customers.txtContactNo">
+	<summary>
+txtContactNo control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:JASA_Cloth_Shop.customers.RequiredFieldValidator5">
+	<summary>
+RequiredFieldValidator5 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:JASA_Cloth_Shop.customers.Label6">
+	<summary>
+Label6 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:JASA_Cloth_Shop.customers.txtCustEmail">
+	<summary>
+txtCustEmail control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:JASA_Cloth_Shop.customers.RequiredFieldValidator6">
+	<summary>
+RequiredFieldValidator6 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:JASA_Cloth_Shop.customers.btninsert">
+	<summary>
+btninsert control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:JASA_Cloth_Shop.customers.btnUpdate">
+	<summary>
+btnUpdate control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:JASA_Cloth_Shop.customers.btnDelete">
+	<summary>
+btnDelete control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:JASA_Cloth_Shop.customers.btnClear">
+	<summary>
+btnClear control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:JASA_Cloth_Shop.customers.GridView1">
+	<summary>
+GridView1 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:JASA_Cloth_Shop.login.form1">
+	<summary>
+form1 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:JASA_Cloth_Shop.login.txtUserName">
+	<summary>
+txtUserName control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:JASA_Cloth_Shop.login.RequiredFieldValidator2">
+	<summary>
+RequiredFieldValidator2 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:JASA_Cloth_Shop.login.txtPassword">
+	<summary>
+txtPassword control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:JASA_Cloth_Shop.login.RequiredFieldValidator1">
+	<summary>
+RequiredFieldValidator1 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:JASA_Cloth_Shop.login.LoginForm">
+	<summary>
+LoginForm control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:JASA_Cloth_Shop.login.lblMessage">
+	<summary>
+lblMessage control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:JASA_Cloth_Shop.product.form1">
+	<summary>
+form1 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:JASA_Cloth_Shop.product.Label1">
+	<summary>
+Label1 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:JASA_Cloth_Shop.product.txtProductID">
+	<summary>
+txtProductID control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:JASA_Cloth_Shop.product.Label2">
+	<summary>
+Label2 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:JASA_Cloth_Shop.product.txtItemName">
+	<summary>
+txtItemName control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:JASA_Cloth_Shop.product.RequiredFieldValidator1">
+	<summary>
+RequiredFieldValidator1 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:JASA_Cloth_Shop.product.Label4">
+	<summary>
+Label4 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:JASA_Cloth_Shop.product.txtPrice">
+	<summary>
+txtPrice control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:JASA_Cloth_Shop.product.RequiredFieldValidator2">
+	<summary>
+RequiredFieldValidator2 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:JASA_Cloth_Shop.product.Label5">
+	<summary>
+Label5 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:JASA_Cloth_Shop.product.txtQuantity">
+	<summary>
+txtQuantity control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:JASA_Cloth_Shop.product.RequiredFieldValidator3">
+	<summary>
+RequiredFieldValidator3 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:JASA_Cloth_Shop.product.btninsert">
+	<summary>
+btninsert control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:JASA_Cloth_Shop.product.btnUpdate">
+	<summary>
+btnUpdate control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:JASA_Cloth_Shop.product.btnDelete">
+	<summary>
+btnDelete control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:JASA_Cloth_Shop.product.btnClear">
+	<summary>
+btnClear control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:JASA_Cloth_Shop.product.GridView1">
+	<summary>
+GridView1 control.
 </summary>
 	<remarks>
 Auto-generated field.
@@ -855,6 +863,222 @@ GridView1 control.
 Auto-generated field.
 To modify move field declaration from designer file to code-behind file.
 </remarks>
+</member><member name="F:JASA_Cloth_Shop.billing.form1">
+	<summary>
+form1 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:JASA_Cloth_Shop.billing.GridView4">
+	<summary>
+GridView4 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:JASA_Cloth_Shop.billing.Panel1">
+	<summary>
+Panel1 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:JASA_Cloth_Shop.billing.Label14">
+	<summary>
+Label14 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:JASA_Cloth_Shop.billing.DropDownList1">
+	<summary>
+DropDownList1 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:JASA_Cloth_Shop.billing.Label3">
+	<summary>
+Label3 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:JASA_Cloth_Shop.billing.txtItem">
+	<summary>
+txtItem control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:JASA_Cloth_Shop.billing.Label4">
+	<summary>
+Label4 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:JASA_Cloth_Shop.billing.txtPrice">
+	<summary>
+txtPrice control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:JASA_Cloth_Shop.billing.Label5">
+	<summary>
+Label5 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:JASA_Cloth_Shop.billing.txtQuantity">
+	<summary>
+txtQuantity control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:JASA_Cloth_Shop.billing.Label6">
+	<summary>
+Label6 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:JASA_Cloth_Shop.billing.txtTotal">
+	<summary>
+txtTotal control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:JASA_Cloth_Shop.billing.addChart">
+	<summary>
+addChart control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:JASA_Cloth_Shop.billing.GridView3">
+	<summary>
+GridView3 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:JASA_Cloth_Shop.billing.Panel2">
+	<summary>
+Panel2 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:JASA_Cloth_Shop.billing.Label9">
+	<summary>
+Label9 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:JASA_Cloth_Shop.billing.txtAllTotal">
+	<summary>
+txtAllTotal control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:JASA_Cloth_Shop.billing.Reset">
+	<summary>
+Reset control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:JASA_Cloth_Shop.billing.Label13">
+	<summary>
+Label13 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:JASA_Cloth_Shop.billing.txtPaid">
+	<summary>
+txtPaid control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:JASA_Cloth_Shop.billing.Label11">
+	<summary>
+Label11 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:JASA_Cloth_Shop.billing.txtRemainderBalance">
+	<summary>
+txtRemainderBalance control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:JASA_Cloth_Shop.billing.btnInvoice">
+	<summary>
+btnInvoice control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:JASA_Cloth_Shop.billing.txtTotalQuantity">
+	<summary>
+txtTotalQuantity control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:JASA_Cloth_Shop.billing.txtSelectedQuantity">
+	<summary>
+txtSelectedQuantity control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:JASA_Cloth_Shop.billing.txtProductName">
+	<summary>
+txtProductName control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
 </member><member name="F:JASA_Cloth_Shop.MasterPage.head">
 	<summary>
 head control.
@@ -871,7 +1095,7 @@ ContentPlaceHolder1 control.
 Auto-generated field.
 To modify move field declaration from designer file to code-behind file.
 </remarks>
-</member><member name="F:JASA_Cloth_Shop.product.form1">
+</member><member name="F:JASA_Cloth_Shop.bill.form1">
 	<summary>
 form1 control.
 </summary>
@@ -879,247 +1103,15 @@ form1 control.
 Auto-generated field.
 To modify move field declaration from designer file to code-behind file.
 </remarks>
-</member><member name="F:JASA_Cloth_Shop.product.Label1">
+</member><member name="F:JASA_Cloth_Shop.bill.Label14">
 	<summary>
-Label1 control.
+Label14 control.
 </summary>
 	<remarks>
 Auto-generated field.
 To modify move field declaration from designer file to code-behind file.
 </remarks>
-</member><member name="F:JASA_Cloth_Shop.product.txtProductID">
-	<summary>
-txtProductID control.
-</summary>
-	<remarks>
-Auto-generated field.
-To modify move field declaration from designer file to code-behind file.
-</remarks>
-</member><member name="F:JASA_Cloth_Shop.product.Label2">
-	<summary>
-Label2 control.
-</summary>
-	<remarks>
-Auto-generated field.
-To modify move field declaration from designer file to code-behind file.
-</remarks>
-</member><member name="F:JASA_Cloth_Shop.product.txtItemName">
-	<summary>
-txtItemName control.
-</summary>
-	<remarks>
-Auto-generated field.
-To modify move field declaration from designer file to code-behind file.
-</remarks>
-</member><member name="F:JASA_Cloth_Shop.product.RequiredFieldValidator1">
-	<summary>
-RequiredFieldValidator1 control.
-</summary>
-	<remarks>
-Auto-generated field.
-To modify move field declaration from designer file to code-behind file.
-</remarks>
-</member><member name="F:JASA_Cloth_Shop.product.Label4">
-	<summary>
-Label4 control.
-</summary>
-	<remarks>
-Auto-generated field.
-To modify move field declaration from designer file to code-behind file.
-</remarks>
-</member><member name="F:JASA_Cloth_Shop.product.txtPrice">
-	<summary>
-txtPrice control.
-</summary>
-	<remarks>
-Auto-generated field.
-To modify move field declaration from designer file to code-behind file.
-</remarks>
-</member><member name="F:JASA_Cloth_Shop.product.RequiredFieldValidator2">
-	<summary>
-RequiredFieldValidator2 control.
-</summary>
-	<remarks>
-Auto-generated field.
-To modify move field declaration from designer file to code-behind file.
-</remarks>
-</member><member name="F:JASA_Cloth_Shop.product.Label5">
-	<summary>
-Label5 control.
-</summary>
-	<remarks>
-Auto-generated field.
-To modify move field declaration from designer file to code-behind file.
-</remarks>
-</member><member name="F:JASA_Cloth_Shop.product.txtQuantity">
-	<summary>
-txtQuantity control.
-</summary>
-	<remarks>
-Auto-generated field.
-To modify move field declaration from designer file to code-behind file.
-</remarks>
-</member><member name="F:JASA_Cloth_Shop.product.RequiredFieldValidator3">
-	<summary>
-RequiredFieldValidator3 control.
-</summary>
-	<remarks>
-Auto-generated field.
-To modify move field declaration from designer file to code-behind file.
-</remarks>
-</member><member name="F:JASA_Cloth_Shop.product.btninsert">
-	<summary>
-btninsert control.
-</summary>
-	<remarks>
-Auto-generated field.
-To modify move field declaration from designer file to code-behind file.
-</remarks>
-</member><member name="F:JASA_Cloth_Shop.product.btnUpdate">
-	<summary>
-btnUpdate control.
-</summary>
-	<remarks>
-Auto-generated field.
-To modify move field declaration from designer file to code-behind file.
-</remarks>
-</member><member name="F:JASA_Cloth_Shop.product.btnDelete">
-	<summary>
-btnDelete control.
-</summary>
-	<remarks>
-Auto-generated field.
-To modify move field declaration from designer file to code-behind file.
-</remarks>
-</member><member name="F:JASA_Cloth_Shop.product.btnClear">
-	<summary>
-btnClear control.
-</summary>
-	<remarks>
-Auto-generated field.
-To modify move field declaration from designer file to code-behind file.
-</remarks>
-</member><member name="F:JASA_Cloth_Shop.product.GridView1">
-	<summary>
-GridView1 control.
-</summary>
-	<remarks>
-Auto-generated field.
-To modify move field declaration from designer file to code-behind file.
-</remarks>
-</member><member name="F:JASA_Cloth_Shop.sales.form1">
-	<summary>
-form1 control.
-</summary>
-	<remarks>
-Auto-generated field.
-To modify move field declaration from designer file to code-behind file.
-</remarks>
-</member><member name="F:JASA_Cloth_Shop.sales.Label1">
-	<summary>
-Label1 control.
-</summary>
-	<remarks>
-Auto-generated field.
-To modify move field declaration from designer file to code-behind file.
-</remarks>
-</member><member name="F:JASA_Cloth_Shop.sales.TextBox1">
-	<summary>
-TextBox1 control.
-</summary>
-	<remarks>
-Auto-generated field.
-To modify move field declaration from designer file to code-behind file.
-</remarks>
-</member><member name="F:JASA_Cloth_Shop.sales.Label2">
-	<summary>
-Label2 control.
-</summary>
-	<remarks>
-Auto-generated field.
-To modify move field declaration from designer file to code-behind file.
-</remarks>
-</member><member name="F:JASA_Cloth_Shop.sales.TextBox2">
-	<summary>
-TextBox2 control.
-</summary>
-	<remarks>
-Auto-generated field.
-To modify move field declaration from designer file to code-behind file.
-</remarks>
-</member><member name="F:JASA_Cloth_Shop.sales.Button1">
-	<summary>
-Button1 control.
-</summary>
-	<remarks>
-Auto-generated field.
-To modify move field declaration from designer file to code-behind file.
-</remarks>
-</member><member name="F:JASA_Cloth_Shop.sales.GridView3">
-	<summary>
-GridView3 control.
-</summary>
-	<remarks>
-Auto-generated field.
-To modify move field declaration from designer file to code-behind file.
-</remarks>
-</member><member name="F:JASA_Cloth_Shop.customers.form1">
-	<summary>
-form1 control.
-</summary>
-	<remarks>
-Auto-generated field.
-To modify move field declaration from designer file to code-behind file.
-</remarks>
-</member><member name="F:JASA_Cloth_Shop.customers.Label1">
-	<summary>
-Label1 control.
-</summary>
-	<remarks>
-Auto-generated field.
-To modify move field declaration from designer file to code-behind file.
-</remarks>
-</member><member name="F:JASA_Cloth_Shop.customers.txtCustId">
-	<summary>
-txtCustId control.
-</summary>
-	<remarks>
-Auto-generated field.
-To modify move field declaration from designer file to code-behind file.
-</remarks>
-</member><member name="F:JASA_Cloth_Shop.customers.Label2">
-	<summary>
-Label2 control.
-</summary>
-	<remarks>
-Auto-generated field.
-To modify move field declaration from designer file to code-behind file.
-</remarks>
-</member><member name="F:JASA_Cloth_Shop.customers.txtCustFullName">
-	<summary>
-txtCustFullName control.
-</summary>
-	<remarks>
-Auto-generated field.
-To modify move field declaration from designer file to code-behind file.
-</remarks>
-</member><member name="F:JASA_Cloth_Shop.customers.RequiredFieldValidator2">
-	<summary>
-RequiredFieldValidator2 control.
-</summary>
-	<remarks>
-Auto-generated field.
-To modify move field declaration from designer file to code-behind file.
-</remarks>
-</member><member name="F:JASA_Cloth_Shop.customers.Label3">
-	<summary>
-Label3 control.
-</summary>
-	<remarks>
-Auto-generated field.
-To modify move field declaration from designer file to code-behind file.
-</remarks>
-</member><member name="F:JASA_Cloth_Shop.customers.DropDownList1">
+</member><member name="F:JASA_Cloth_Shop.bill.DropDownList1">
 	<summary>
 DropDownList1 control.
 </summary>
@@ -1127,15 +1119,31 @@ DropDownList1 control.
 Auto-generated field.
 To modify move field declaration from designer file to code-behind file.
 </remarks>
-</member><member name="F:JASA_Cloth_Shop.customers.RequiredFieldValidator3">
+</member><member name="F:JASA_Cloth_Shop.bill.GridView4">
 	<summary>
-RequiredFieldValidator3 control.
+GridView4 control.
 </summary>
 	<remarks>
 Auto-generated field.
 To modify move field declaration from designer file to code-behind file.
 </remarks>
-</member><member name="F:JASA_Cloth_Shop.customers.Label4">
+</member><member name="F:JASA_Cloth_Shop.bill.Label3">
+	<summary>
+Label3 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:JASA_Cloth_Shop.bill.txtItem">
+	<summary>
+txtItem control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:JASA_Cloth_Shop.bill.Label4">
 	<summary>
 Label4 control.
 </summary>
@@ -1143,23 +1151,15 @@ Label4 control.
 Auto-generated field.
 To modify move field declaration from designer file to code-behind file.
 </remarks>
-</member><member name="F:JASA_Cloth_Shop.customers.txtCustAddress">
+</member><member name="F:JASA_Cloth_Shop.bill.txtPrice">
 	<summary>
-txtCustAddress control.
+txtPrice control.
 </summary>
 	<remarks>
 Auto-generated field.
 To modify move field declaration from designer file to code-behind file.
 </remarks>
-</member><member name="F:JASA_Cloth_Shop.customers.RequiredFieldValidator4">
-	<summary>
-RequiredFieldValidator4 control.
-</summary>
-	<remarks>
-Auto-generated field.
-To modify move field declaration from designer file to code-behind file.
-</remarks>
-</member><member name="F:JASA_Cloth_Shop.customers.Label5">
+</member><member name="F:JASA_Cloth_Shop.bill.Label5">
 	<summary>
 Label5 control.
 </summary>
@@ -1167,23 +1167,15 @@ Label5 control.
 Auto-generated field.
 To modify move field declaration from designer file to code-behind file.
 </remarks>
-</member><member name="F:JASA_Cloth_Shop.customers.txtContactNo">
+</member><member name="F:JASA_Cloth_Shop.bill.txtQuantity">
 	<summary>
-txtContactNo control.
+txtQuantity control.
 </summary>
 	<remarks>
 Auto-generated field.
 To modify move field declaration from designer file to code-behind file.
 </remarks>
-</member><member name="F:JASA_Cloth_Shop.customers.RequiredFieldValidator5">
-	<summary>
-RequiredFieldValidator5 control.
-</summary>
-	<remarks>
-Auto-generated field.
-To modify move field declaration from designer file to code-behind file.
-</remarks>
-</member><member name="F:JASA_Cloth_Shop.customers.Label6">
+</member><member name="F:JASA_Cloth_Shop.bill.Label6">
 	<summary>
 Label6 control.
 </summary>
@@ -1191,113 +1183,113 @@ Label6 control.
 Auto-generated field.
 To modify move field declaration from designer file to code-behind file.
 </remarks>
-</member><member name="F:JASA_Cloth_Shop.customers.txtCustEmail">
+</member><member name="F:JASA_Cloth_Shop.bill.txtTotal">
 	<summary>
-txtCustEmail control.
+txtTotal control.
 </summary>
 	<remarks>
 Auto-generated field.
 To modify move field declaration from designer file to code-behind file.
 </remarks>
-</member><member name="F:JASA_Cloth_Shop.customers.RequiredFieldValidator6">
+</member><member name="F:JASA_Cloth_Shop.bill.addChart">
 	<summary>
-RequiredFieldValidator6 control.
+addChart control.
 </summary>
 	<remarks>
 Auto-generated field.
 To modify move field declaration from designer file to code-behind file.
 </remarks>
-</member><member name="F:JASA_Cloth_Shop.customers.btninsert">
+</member><member name="F:JASA_Cloth_Shop.bill.Label9">
 	<summary>
-btninsert control.
+Label9 control.
 </summary>
 	<remarks>
 Auto-generated field.
 To modify move field declaration from designer file to code-behind file.
 </remarks>
-</member><member name="F:JASA_Cloth_Shop.customers.btnUpdate">
+</member><member name="F:JASA_Cloth_Shop.bill.txtAllTotal">
 	<summary>
-btnUpdate control.
+txtAllTotal control.
 </summary>
 	<remarks>
 Auto-generated field.
 To modify move field declaration from designer file to code-behind file.
 </remarks>
-</member><member name="F:JASA_Cloth_Shop.customers.btnDelete">
+</member><member name="F:JASA_Cloth_Shop.bill.Reset">
 	<summary>
-btnDelete control.
+Reset control.
 </summary>
 	<remarks>
 Auto-generated field.
 To modify move field declaration from designer file to code-behind file.
 </remarks>
-</member><member name="F:JASA_Cloth_Shop.customers.btnClear">
+</member><member name="F:JASA_Cloth_Shop.bill.GridView3">
 	<summary>
-btnClear control.
+GridView3 control.
 </summary>
 	<remarks>
 Auto-generated field.
 To modify move field declaration from designer file to code-behind file.
 </remarks>
-</member><member name="F:JASA_Cloth_Shop.customers.GridView1">
+</member><member name="F:JASA_Cloth_Shop.bill.Label13">
 	<summary>
-GridView1 control.
+Label13 control.
 </summary>
 	<remarks>
 Auto-generated field.
 To modify move field declaration from designer file to code-behind file.
 </remarks>
-</member><member name="F:JASA_Cloth_Shop.login.form1">
+</member><member name="F:JASA_Cloth_Shop.bill.txtPaid">
 	<summary>
-form1 control.
+txtPaid control.
 </summary>
 	<remarks>
 Auto-generated field.
 To modify move field declaration from designer file to code-behind file.
 </remarks>
-</member><member name="F:JASA_Cloth_Shop.login.txtUserName">
+</member><member name="F:JASA_Cloth_Shop.bill.Label11">
 	<summary>
-txtUserName control.
+Label11 control.
 </summary>
 	<remarks>
 Auto-generated field.
 To modify move field declaration from designer file to code-behind file.
 </remarks>
-</member><member name="F:JASA_Cloth_Shop.login.RequiredFieldValidator2">
+</member><member name="F:JASA_Cloth_Shop.bill.txtRemainderBalance">
 	<summary>
-RequiredFieldValidator2 control.
+txtRemainderBalance control.
 </summary>
 	<remarks>
 Auto-generated field.
 To modify move field declaration from designer file to code-behind file.
 </remarks>
-</member><member name="F:JASA_Cloth_Shop.login.txtPassword">
+</member><member name="F:JASA_Cloth_Shop.bill.btnInvoice">
 	<summary>
-txtPassword control.
+btnInvoice control.
 </summary>
 	<remarks>
 Auto-generated field.
 To modify move field declaration from designer file to code-behind file.
 </remarks>
-</member><member name="F:JASA_Cloth_Shop.login.RequiredFieldValidator1">
+</member><member name="F:JASA_Cloth_Shop.bill.txtTotalQuantity">
 	<summary>
-RequiredFieldValidator1 control.
+txtTotalQuantity control.
 </summary>
 	<remarks>
 Auto-generated field.
 To modify move field declaration from designer file to code-behind file.
 </remarks>
-</member><member name="F:JASA_Cloth_Shop.login.LoginForm">
+</member><member name="F:JASA_Cloth_Shop.bill.txtSelectedQuantity">
 	<summary>
-LoginForm control.
+txtSelectedQuantity control.
 </summary>
 	<remarks>
 Auto-generated field.
 To modify move field declaration from designer file to code-behind file.
 </remarks>
-</member><member name="F:JASA_Cloth_Shop.login.lblMessage">
+</member><member name="F:JASA_Cloth_Shop.bill.txtProductName">
 	<summary>
-lblMessage control.
+txtProductName control.
 </summary>
 	<remarks>
 Auto-generated field.
